@@ -7,18 +7,18 @@ As a dedicated learner with a passion for UI design, I am currently pursuing a b
 Bachelor of Computer Application (BCA) from Kristu Jyoti College of Management and Technology, affiliated with Mahatma Gandhi University.
 Higher Secondary Education (Maths/IP)- St.Jude Global School
 
-SKILLS 
+# SKILLS 
 - UI/UX
 - Figma
 - ppt/excel
 - Computer Literacy
 
-CERTIFICATIONS
+# CERTIFICATIONS
 - Powerpoint
 - Excel
 - Chat GPT(basic)
 
-CONTACT
+# CONTACT
 Dani John Cherian
-danijcherian2@gmail.com
-Instagram - dani_john18
+- danijcherian2@gmail.com
+- Instagram - dani_john18
